@@ -9,7 +9,7 @@ public class ExecuteCommand {
         try {
             String CurrentDir = System.getProperty("user.dir");
             //String FileName =  CurrentDir + "\\Digital_R2_MSA_Import_MD_4261.xlsm";
-            String FileName = "C:\\jenkins\\workspace\\excel_test_ihor\\Digital_R2_MSA_Import_MD_4261_v2.xlsm";
+            String FileName = "E:\\apps\\jenkins-test-prod\\workspace\\MDM_Automation\\dev\\excel_test_ihor\\Digital_R2_MSA_Import_MD_4261_v2.xlsm";
 
 
 //            String FileName =  CurrentDir + "\\Digital_R2_MSA_Import_MD_4261.xlsm";
